@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "lerna-core": "github:qxiao-smile/lerna-core#v0.0.1"
-  }
+  },
+  "gitHead": "334826f0bbc7632fdc94b0c796c6945cfdf5a746"
 }
