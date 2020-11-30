@@ -1,0 +1,22 @@
+{
+  "name": "lerna-core",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ljian16@qq.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/qxiao-smile/lerna-core.git"
+  },
+  "keywords": [
+    "lerna-core"
+  ],
+  "bugs": {
+    "url": "https://github.com/qxiao-smile/lerna-core/issues"
+  },
+  "homepage": "https://github.com/qxiao-smile/lerna-core#readme",
+  "description": ""
+}

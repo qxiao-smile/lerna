@@ -1,0 +1,14 @@
+{
+  "name": "lerna-runtime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lerna-core": "github:qxiao-smile/lerna-core#v1.0.0"
+  }
+}
