@@ -1,6 +1,6 @@
 {
   "name": "lerna-runtime",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lerna-core": "github:qxiao-smile/lerna-core#v1.0.0"
+    "lerna-core": "github:qxiao-smile/lerna-core#v0.0.1"
   }
 }
